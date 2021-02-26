@@ -1,2 +1,2 @@
 # BrainStorm
-aggregating search queries for personalized web results 
+aggregating user's search queries for personalized web results 
