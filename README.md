@@ -1,5 +1,5 @@
 # BrainStorm
-Optimizing user's search queries for personalized web results (Twitter, Medium)
+Optimizing user's search queries for personalized social media results (Twitter, Medium)
 
 
 Optimizing search results, though an important component
