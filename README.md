@@ -6,7 +6,7 @@ Optimizing search results, though an important component
 of the internet and the web world, is relatively less
 discussed in research and practice. Few scholars have
 identified that search can be time and money consuming
-- and this can be appalling if users are unsuccessful in
+and this can be appalling when users are unsuccessful in
 obtaining desired results in the process. Research on personalized
 search aggregation have also been used mainly
 for marketing and business purpose. The common method
