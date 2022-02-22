@@ -15,10 +15,10 @@ that serves recommendation systems. However, single
 user-independent ranking model are often insufficient
 to satisfy different users’ result preferences. Using BERT trained corpus,
 the project creates word embeddings for
-the universe of Bing COVID search querie.  Using their cosine similarity, I obtained
+the universe of Bing COVID search queries.  Using their cosine similarity, I obtained
 the vectors with the lowest distance on Twitter contents for recommendations.
 The search query data with COVID-19
-intent will be used for this analysis.
+intent was used for this analysis.
 
 
 I use Google’s BERT to
