@@ -1,7 +1,7 @@
 # BrainStorm
 Optimizing user's search queries for personalized social media results (Twitter, Medium)
 
-
+# Project Description
 Optimizing search results, though an important component
 of the internet and the web world, is relatively less
 discussed in research and practice. Few scholars have
@@ -20,7 +20,7 @@ the vectors with the lowest distance on Twitter contents for recommendations.
 The search query data with COVID-19
 intent was used for this analysis.
 
-
+# Method
 I use Google’s BERT to
 access the library for the learning of word embeddings
 and classification. These words are pre-trained on a large
