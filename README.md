@@ -21,7 +21,7 @@ The search query data with COVID-19
 intent was used for this analysis.
 
 # Method
-I use Google’s BERT to
+I use Word2Vec and Google’s BERT in two speparate analyses to
 access the library for the learning of word embeddings
 and classification. These words are pre-trained on a large
 corpus and can be plugged in a variety of downstream
